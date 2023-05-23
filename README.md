@@ -2,7 +2,7 @@
 My first repository
 # Frozen
 ## 2013 . PG . 1h 42m
-![image](https://www.imdb.com/title/tt2294629/mediaviewer/rm3873693440/?ref_=tt_ov_i.jpg)
+![image](https://lumiere-a.akamaihd.net/v1/images/p_frozen_18373_3131259c.jpeg?region=0%2C0%2C540%2C810.jpg)
 
 ---
 
@@ -10,14 +10,15 @@ My first repository
 
 ---
 ***Directors***
-Chris BuckJennifer Lee
+* Chris Buck
+* Jennifer Lee
 ---
 ***Writers***
-Jennifer LeeHans 
-Christian Andersen
-Chris Buck
+* Jennifer LeeHans 
+* Christian Andersen
+* Chris Buck
 ---
 ***Stars***
-Kristen Bell
-Idina Menzel
-Jonathan Groff
+* Kristen Bell
+* Idina Menzel
+* Jonathan Groff
